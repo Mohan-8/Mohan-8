@@ -11,5 +11,5 @@
 - 🤔 I’m looking for help with Motivation
 - 💬 Ask me about Debugging
 - 📫 How to reach us **smohanakrishnan82@gmail.com**
-- ⚡ Fun fact: N/A
+- ⚡ Fun fact: !False
 
