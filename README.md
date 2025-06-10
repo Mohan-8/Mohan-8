@@ -10,6 +10,5 @@
 - 🌱 I’m currently Doing MCA
 - 🤔 I’m looking for help with Motivation
 - 💬 Ask me about Debugging
-- 📫 How to reach us **smohanakrishnan82@gmail.com**
-- ⚡ Fun fact: !False
+- 📫 How to reach me **smohanakrishnan82@gmail.com**
 
